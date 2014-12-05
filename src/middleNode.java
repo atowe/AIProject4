@@ -7,6 +7,7 @@ public class middleNode {
     int searchedend;
     int searchedbeginning;
     double[] prob;
+    //hello
     public middleNode(double a, double b, double c, double d){
         givenbegining=1;
         givenend=2;
