@@ -183,6 +183,8 @@ public class main {
                 }
             }
         }
+        System.out.println(numerator);
+        System.out.println(denominator);
         return numerator/denominator;
     }
     private static double computeProbability(boolean e, boolean b, boolean a, boolean j, boolean m){
