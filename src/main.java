@@ -188,6 +188,7 @@ public class main {
         return numerator/denominator;
     }
     private static double computeProbability(boolean e, boolean b, boolean a, boolean j, boolean m){
+        //so long and thanks for all the fish.
         int evalue;
         int bvalue;
         int avalue;
